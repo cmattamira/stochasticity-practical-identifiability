@@ -1,0 +1,13 @@
+# Scripts in code/
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+
+# Additionally needed by the notebooks in notebooks/
+jupyter
+statsmodels
+seaborn
+sympy
+tslearn

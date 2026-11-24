@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+logs/
+data/regenerated_*/
+data/params_combos_regenerated.csv
